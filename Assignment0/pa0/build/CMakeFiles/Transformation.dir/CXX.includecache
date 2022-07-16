@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/Desktop/pa0/pa0/main.cpp
+cmath
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Dense
+-
+iostream
+-
+
